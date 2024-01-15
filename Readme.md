@@ -12,13 +12,13 @@ This QR Code Generator create and save QR code .
 - qrcode (pip install qrcode )
 
 ## Output Image
-![enter image description here](https://github.com/yogeshsinghgit/Tkinter-Projects/blob/main/QR%20Code%20Gen/github_Cover-QRCodeGen.png)
+![enter image description here](https://github.com/Anupam1603/QR-Generator/blob/main/github_Cover-QRCodeGen.png)
 
 
 ## Contribution
 
-_This project is made by  **Yogesh Singh**._
+_This project is made by  **Anupam**._
 
-> Make sure to follow me on [GitHub](https://github.com/yogeshsinghgit/)
+> Make sure to follow me on [GitHub](https://github.com/Anupam_1603/)
 
 **Happy Coding**
